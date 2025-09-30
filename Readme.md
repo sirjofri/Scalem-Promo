@@ -6,6 +6,17 @@
 
 ![banner](images/banner.png)
 
+## Technical Specifications for the Images
+
+- Gallery Images
+  - Min Resolution: 1920x1080
+  - Max Size: 3MB
+  - Max Size total: 25MB
+  - Maximum 24 files
+- Thumbnail Image
+  - Min Resolution: 1920x1080
+  - Max Size: 3MB
+
 ### Chat GPT
 
 1. Hero Visual - "Gotta Scal'em All"
