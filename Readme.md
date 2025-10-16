@@ -4,8 +4,6 @@
 
 ## Slideshow Images
 
-![banner](images/banner.png)
-
 ## Technical Specifications for the Images
 
 - Gallery Images
@@ -25,6 +23,8 @@
 - UI Screenshot of the Scalem window
 - Goal: Make it obvious that it's about Unreal scalability in easy and Visual
 
+![hero](images/Scalem_thumbnail.png)
+
 2. "The problem vs the solution"
 
 - Content: Split image.
@@ -32,6 +32,9 @@
   - Other side: Scalem with clear visuals
 - Clean, with contrast (red/grey vs green/bright)
 - Goal: Scalem is the better solution
+
+![problem](images/Scalem_prob_solution_1.png)
+![problem](images/Scalem_prob_solution_2.png)
 
 3. Key Features in action
 
@@ -42,15 +45,21 @@
 - Screenshots next to each other
 - Goal: Most important features presented visually
 
+![visuals](images/Scalem_visuals.png)
+
 4. Real data, real machines
 - Content: Screenshot of the "Machines and Captures", "Work with your real target hardware"
 - Highlight the table and comparison, maybe stilized laptops/PCs
 - Goal: It's not about theory, but real performance data
 
+![real](images/Scalem_real.png)
+
 5. Team/Workflow Visual (optional)
 - Content: mockup with multiple scalem windows, parallel next to each other. Text: "Align your team around data, not debates"
 - Less technical screenshot, more storytelling: Scalem makes collaboration easier.
 - Goal: Team perspective, workflow speedup
+
+![team](images/Scalem_show.png)
 
 ## Text Content
 
@@ -100,7 +109,3 @@ If scalability tuning has ever slowed you down, this tool was built for you.
 - Allow AI Use: No
 - Created with AI: No
 - Promotional Content: No
-
-### Thumbnail Image
-
-![thumb](images/thumbnail.png)
